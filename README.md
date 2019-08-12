@@ -1,8 +1,7 @@
 # detecting-incongruity-dataset-gen
 English dataset generation code for [detecting-incongruity](https://github.com/david-yoon/detecting-incongruity) based on [NELA2017 Dataset](https://github.com/BenjaminDHorne/NELA2017-Dataset-v1)
 
-Generation method is from following paper
-
+Generation method from following paper: 
 **Detecting Incongruity Between News Headline and Body Text via a Deep Hierarchical Encoder**, AAAI-19, [paper](https://arxiv.org/abs/1811.07066)
 
 ### Requirements

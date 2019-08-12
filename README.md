@@ -3,10 +3,10 @@ English dataset generation code for detecting-incongruity based on [NELA2017 Dat
 
 ### Requirements
 
-- python3
-- python libraries
-  - pandas
-  - nltk
+- Python3
+- Python libraries
+  - Pandas
+  - Nltk
 
 
 

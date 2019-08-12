@@ -6,7 +6,7 @@ English dataset generation code for detecting-incongruity based on [NELA2017 Dat
 - Python3
 - Python libraries
   - Pandas
-  - Nltk
+  - NLTK
 
 
 

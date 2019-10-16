@@ -28,3 +28,13 @@ $python3 dataset_creation.py --nela_path [PATH_TO_UNZIPPED_NELA_FOLDER] --output
 $python3 dataset_creation.py --input_path sample.csv --output_dir ./output/ 
 ```
 
+### Description
+
+- Output will be 5 csv files (train.csv, train_ip.csv, dev.csv, dev_ip.csv, test.csv). 
+  - Training / Validation Set with `_ip` postfix is for IP method in paper.
+- Each csv files contains rows with 4 columns (Index, Headline, Body, Label) without header.
+  - Filename without `_ip` postfix contains one unique article per row.
+  - Filename with `_ip` postfix contains one unique paragraph article per row.
+  - Label "1" means True - this row is incongruent. 
+  
+  
